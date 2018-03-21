@@ -1,0 +1,12 @@
+﻿{
+  "serverUrl": "http://veriskcpdeploy.iso.com/",
+  "apiKey": "API-XIJTEZFEPRMRKU7LK52IVB7BA",
+  "userName": "",
+  "password": "",
+  "projectName": "FlightDeck API",
+  "variablesFileFormat": "json",
+  "variablesFilePath": "H:\\Desktop\\ConfigJson\\FlightDeckAPI\\octopusImportTest.json",
+  "environment": "Test",
+  "originalConfigPaths": "H:\\Desktop\\ConfigXmls\\FlightDeckAPI\\FlightDeckApiTest.Config",
+  "octopusVariableExportPath": "H:\\Desktop\\OctopusExport\\FlightDeckAPI\\octopusExportTest.json"
+}
